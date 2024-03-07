@@ -1,0 +1,16 @@
+body{
+    background-image: url(/images/fondo1.jpg);
+}
+
+.color{
+    background-color: black;
+}
+
+header, footer {
+    span{
+color: white;
+}
+a{
+    color: white;
+}
+}
