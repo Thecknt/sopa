@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body{
-    background-image: url(/images/fondo1.jpg);
+    background-image: url(images/fondo1.jpg);
 }
 
 .color{
